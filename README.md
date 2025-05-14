@@ -14,11 +14,11 @@ The project includes Python scripts for computing the wave dynamics and visualiz
 
 - `images/` — Directory containing output figures (e.g., wave snapshots at various time steps).
 
-- ‘DefectPlots.ipynb’ — File containing the code that computes the solution with material defects
+- `DefectPlots.ipynb` — File containing the code that computes the solution with material defects
 
 - `README.md` — This file.
 
-- ‘AE370GP2_14.pdf’ — File containing the formal report. 
+- `AE370GP2_14.pdf` — File containing the formal report. 
 
 ---
 
